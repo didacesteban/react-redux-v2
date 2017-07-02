@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './style/css/App.css';
+import '../style/css/style.css';
 import Cart from '../components/cart';
 
 class App extends Component {
