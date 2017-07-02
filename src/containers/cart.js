@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import * as CartActions from '../actions/cart';
-import Shelf from './shelf';
+import Shelf from '../components/shelf';
 
 class Cart extends Component {
   constructor(props){

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../style/css/style.css';
-import Cart from '../components/cart';
+import Cart from '../containers/cart';
 
 class App extends Component {
   render() {
